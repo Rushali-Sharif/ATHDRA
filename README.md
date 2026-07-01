@@ -1,2 +1,2 @@
 # ATHDRA
-Official implementation of ATHDRA: Adaptive Topology with Hyperedge Dynamic Relational Architecture for Human-like Visual Perception.
+Official implementation of ATHDHRA: Adaptive Topology with Dynamic Hierarchical Relational Hypergraph for Human-like Visual Perception
