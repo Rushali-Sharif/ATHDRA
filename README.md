@@ -301,7 +301,7 @@ $\leftrightarrow$ **Active Vision**
 
 ### Step 2: Nodes Talk to Neighbors
 
-$$A = \mathrm{softmax}\!\left(\frac{QK^{\top}}{\sqrt{d}}\right)$$
+$$A = \mathrm{softmax}\left(\frac{QK^{\top}}{\sqrt{d}}\right)$$
 
 - $Q, K$: query and key vectors derived from each node's features.
 - $A[i,j]$ in plain words: **"how much node $i$ listens to node $j$."**
